@@ -1,3 +1,6 @@
-## cpp
+## Data structures using C++
 
-- ⛓️ [ learncpp.com](https://www.learncpp.com)
+- Questions on Arrays
+- Questions on LinkedLists
+- Questions on Stacks
+- Questions on Queues
